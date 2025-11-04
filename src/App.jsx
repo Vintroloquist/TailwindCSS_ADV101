@@ -12,7 +12,7 @@ function App() {
         <div className="flex flex-col md:flex-row items-center md:items-start gap-6 md:gap-8">
           <div className="flex-shrink-0">
             <img
-              src="https://scontent.fdvo5-1.fna.fbcdn.net/v/t39.30808-1/497513466_2175083026276684_3075551396526308932_n.jpg?stp=c241.0.1536.1536a_dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=ft2KF-Q8GXUQ7kNvwHZ-Jew&_nc_oc=AdlmZMLbRq3bdee8LUh13mKXfn3y8knw674z1g0FwW2egA79TbcMxa0aQhjy2E5Mxzs&_nc_zt=24&_nc_ht=scontent.fdvo5-1.fna&_nc_gid=uWawba1dqZtuEVkX8ubbmg&oh=00_AfdrsjRUkdtO4Umob8RISQl3VqtnaHGjcg3X8M4sdz2sOQ&oe=68FA19A8"
+              src="images/Lanuel.jpg"
               alt="Profile"
               className="rounded-full w-32 h-32 md:w-40 md:h-40 lg:w-48 lg:h-48 object-cover border-4 border-[#e6eef8] shadow-sm"
             />
